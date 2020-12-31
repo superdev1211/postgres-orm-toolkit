@@ -1,0 +1,14 @@
+{
+  "name": "postgres-orm-toolkit",
+  "version": "1.0.0",
+  "description": "Lightweight PostgreSQL query builder and migration toolkit for Node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --coverage",
+    "lint": "eslint src/"
+  },
+  "keywords": [],
+  "author": "superdev1211",
+  "license": "MIT"
+}
